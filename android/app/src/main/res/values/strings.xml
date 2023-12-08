@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DNI</string>
+    <string name="title_activity_main">DNI</string>
+    <string name="package_name">com.dni.app</string>
+    <string name="custom_url_scheme">com.dni.app</string>
+</resources>
